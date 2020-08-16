@@ -52,11 +52,17 @@ https://nptel.ac.in/courses/106/105/106105216/
 * Computer Vision, Pascal Fua (EPFL)  
 http://klewel.com/conferences/epfl-computer-vision/
 
+* Computer Vision for Visual Effects ECSE-6969, Richard Radke    
+https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a
+
 * Image processing and Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
 
 * Advanced Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
+
+* Advanced Computer Vision CAP6412 (UCF)  
+https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar
 
 * The Ancient Secrets of Computer Vision  
 https://pjreddie.com/courses/computer-vision/
@@ -81,12 +87,6 @@ https://www.youtube.com/watch?v=Xogn6veSyxA
 
 * Deep Learning: Advanced Computer Vision  
 https://www.udemy.com/course/advanced-computer-vision/
-
-* Advanced Computer Vision CAP6412 Spring 2018 (UCF)  
-https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993
-
-* Advanced Computer Vision CAP6412 Spring 2019 (UCF)  
-https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar
 
 * Computer Vision MIT 6.S094, Lex Fridman  
 https://www.youtube.com/watch?v=CLOAswsxudo
