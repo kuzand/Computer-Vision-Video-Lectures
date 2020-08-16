@@ -18,15 +18,15 @@ https://www.coursera.org/learn/dsp
 
 ## Image and Video processing
 
+* Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  
+https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
+https://www.coursera.org/learn/image-processing
+
 * Introduction to Image Processing, Richard Radke  
 https://www.ecse.rpi.edu/~rjradke/improccourse.html
 
 * Fundamentals of Digital Image and Video Processing  
 https://www.coursera.org/learn/digital?
-
-* Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  
-https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
-https://www.coursera.org/learn/image-processing
 
 
 ## Computer Vision
