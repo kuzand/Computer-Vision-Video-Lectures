@@ -86,9 +86,6 @@ https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep
 * Convolutional Networks, Ian Goodfellow  
 https://www.youtube.com/watch?v=Xogn6veSyxA
 
-* Deep Learning: Advanced Computer Vision  
-https://www.udemy.com/course/advanced-computer-vision/
-
 * Computer Vision MIT 6.S094, Lex Fridman  
 https://www.youtube.com/watch?v=CLOAswsxudo
 
