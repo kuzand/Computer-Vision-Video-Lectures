@@ -15,6 +15,9 @@ https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 * Digital Signal Processing (EPFL)  
 https://www.coursera.org/learn/dsp
 
+* Digital Image Processing (NPTEL), Prof. P.K. Biswas  
+https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
+
 
 ## Image and Video processing
 
