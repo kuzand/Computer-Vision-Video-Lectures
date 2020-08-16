@@ -44,7 +44,10 @@ https://www.udacity.com/course/introduction-to-computer-vision--ud810
 * Computer Vision EENG 512  
 https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
 
-* Multiple View Geometry, Prof. Daniel Cremers  
+* Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers  
+https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI
+
+* Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
 
 * Computer Vision (NPTEL)  
@@ -106,6 +109,9 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
 
 * Machine Learning CS229 (Stanford) Autumn 2018, Prof. Andrew Ng  
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+
+* Machine Learning for Computer Vision (TU München), Dr. Rudolph Triebel  
+https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl
 
 * Machine Learning Course CS156 (Caltech), Prof. Yaser Abu-Mostafa  
 https://www.youtube.com/playlist?list=PLD63A284B7615313A
