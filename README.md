@@ -25,7 +25,7 @@ https://www.ecse.rpi.edu/~rjradke/improccourse.html
 https://www.coursera.org/learn/digital?
 
 * Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  
-https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs
+https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
 https://www.coursera.org/learn/image-processing
 
 
@@ -38,7 +38,7 @@ https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
 https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9
 
 * Introduction to Computer Vision CS-6476 (Georgia Tech)  
-https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos
+https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos  
 https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
 * Computer Vision EENG 512  
