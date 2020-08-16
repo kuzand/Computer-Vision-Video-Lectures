@@ -28,7 +28,7 @@ https://www.coursera.org/learn/digital?
 https://www.coursera.org/learn/image-processing
 
 
-## Traditional Computer Vision
+## Computer Vision
 
 * Computer Vision 2012 (UCF), Dr. Mubarak Shah  
 https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
@@ -52,14 +52,20 @@ https://nptel.ac.in/courses/106/105/106105216/
 * Computer Vision, Pascal Fua (EPFL)  
 http://klewel.com/conferences/epfl-computer-vision/
 
-* The Ancient Secrets of Computer Vision (lectures 1-9 for "traditional" CV)  
+* Image processing and Computer Vision (CBCSL), Aleix M. Martinez  
+https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
+
+* Advanced Computer Vision (CBCSL), Aleix M. Martinez  
+https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
+
+* The Ancient Secrets of Computer Vision  
 https://pjreddie.com/courses/computer-vision/
 
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
 http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision
 
 
-## Computer Vision with Deep Learning
+## Deep Learning for Computer Vision
 
 * CS231n Convolutional Neural Networks for Visual Recognition (Stanford)  
 http://cs231n.stanford.edu/
@@ -69,9 +75,6 @@ https://web.eecs.umich.edu/~justincj/teaching/eecs498/
 
 * Convolutional Neural Networks, Prof. Andrew Ng  
 https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
-
-* The Ancient Secrets of Computer Vision  
-https://pjreddie.com/courses/computer-vision/
 
 * Convolutional Networks, Ian Goodfellow  
 https://www.youtube.com/watch?v=Xogn6veSyxA
@@ -97,6 +100,9 @@ https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-04-sensory-systems-fa
 * Visual Perception and the Brain (Duke University)  
 https://www.coursera.org/learn/visual-perception
 
+* High-level Vision (CBCSL)  
+https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
+
 
 ## Machine Learning
 
@@ -108,6 +114,9 @@ https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
 * Machine Learning for Intelligent Systems CS4780 (Cornell), Prof. Killian Weiberger  
 https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+
+* Introduction to Machine Learning and Pattern Recognition (CBCSL), Aleix M. Martinez  
+https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
 
 
 ## Deep Learning
