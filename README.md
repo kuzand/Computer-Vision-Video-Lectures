@@ -35,7 +35,7 @@ https://www.coursera.org/learn/digital?
 https://www.youtube.com/playlist?list=PLyED3W677ALNooyk3LAVqhNaPJdY7h2XU
 
 
-## Computer Vision
+## Introductory Computer Vision
 
 * Computer Vision 2012 (UCF), Dr. Mubarak Shah  
 https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
@@ -68,20 +68,26 @@ https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MD
 * Image processing and Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
 
+* The Ancient Secrets of Computer Vision (University of Washington), Joseph Redmon    
+https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p
+
+
+## Advanced Computer Vision 
+
 * Advanced Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
 
 * Advanced Computer Vision CAP6412 (UCF), Dr. Mubarak Shah   
 https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar
 
-* The Ancient Secrets of Computer Vision (University of Washington), Joseph Redmon    
-https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p
-
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
-http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision
+http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule
 
 * Photogrammetry (University of Bonn), Cyrill Stachniss  
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
+
+* Sensors and State Estimation (University of Bonn), Cyrill Stachniss  
+https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6
 
 
 ## Deep Learning for Computer Vision
