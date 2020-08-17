@@ -80,6 +80,9 @@ https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
 http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision
 
+* Photogrammetry (University of Bonn), Cyrill Stachniss  
+https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
+
 
 ## Deep Learning for Computer Vision
 
