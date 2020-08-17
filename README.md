@@ -6,13 +6,13 @@ Constantly updated...
 
 ## Signal processing
 
-* Signals and Systems 6.003 (MIT)  
+* Signals and Systems 6.003 (MIT), Prof. Dennis Freeman   
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/
 
 * Digital Signal Processing ECSE-4530, Richard Radke  
 https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 
-* Digital Signal Processing (EPFL)  
+* Digital Signal Processing (EPFL), Paolo Prandoni and Martin Vetterli  
 https://www.coursera.org/learn/dsp
 
 * Digital Image Processing (NPTEL), Prof. P.K. Biswas  
@@ -21,15 +21,18 @@ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
 
 ## Image and Video processing
 
-* Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  
+* Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  (Duke University), Prof. Guillermo Sapiro  
 https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
 https://www.coursera.org/learn/image-processing
 
 * Introduction to Image Processing, Richard Radke  
 https://www.ecse.rpi.edu/~rjradke/improccourse.html
 
-* Fundamentals of Digital Image and Video Processing  
+* Fundamentals of Digital Image and Video Processing (Northwestern University), Prof. Aggelos K. Katsaggelos  
 https://www.coursera.org/learn/digital?
+
+* Image and Multidimensional Signal Processing EENG 510 (CS Mines), William Hoff  
+https://www.youtube.com/playlist?list=PLyED3W677ALNooyk3LAVqhNaPJdY7h2XU
 
 
 ## Computer Vision
@@ -44,7 +47,7 @@ https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9
 https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos  
 https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
-* Computer Vision EENG 512  
+* Computer Vision EENG 512 (CS Mines), William Hoff  
 https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
 
 * Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers  
@@ -53,10 +56,10 @@ https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI
 * Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
 
-* Computer Vision (NPTEL)  
+* Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay  
 https://nptel.ac.in/courses/106/105/106105216/
 
-* Computer Vision, Pascal Fua (EPFL)  
+* Computer Vision (EPFL), Pascal Fua     
 http://klewel.com/conferences/epfl-computer-vision/
 
 * Computer Vision for Visual Effects ECSE-6969, Richard Radke    
@@ -68,11 +71,11 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
 * Advanced Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
 
-* Advanced Computer Vision CAP6412 (UCF)  
+* Advanced Computer Vision CAP6412 (UCF), Dr. Mubarak Shah   
 https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar
 
-* The Ancient Secrets of Computer Vision  
-https://pjreddie.com/courses/computer-vision/
+* The Ancient Secrets of Computer Vision (University of Washington), Joseph Redmon    
+https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p
 
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
 http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision
