@@ -12,7 +12,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-si
 * Digital Signal Processing ECSE-4530, Richard Radke  
 https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 
-* Digital Signal Processing (EPFL), Paolo Prandoni and Martin Vetterli  
+* Digital Signal Processing (EPFL), Paolo Prandoni, Martin Vetterli  
 https://www.coursera.org/learn/dsp
 
 * Digital Image Processing (NPTEL), Prof. P.K. Biswas  
@@ -132,6 +132,9 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
 * Applied Machine Learning COMS W4995 (Columbia), Andreas C. Müller  
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
 https://www.cs.columbia.edu/~amueller/comsw4995s20/
+
+* Probabilistic and Statistical Machine Learning (University of Tübingen), Prof. Philipp Hennig,  Prof. U. von Luxburg  
+https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
 
 
 ## Deep Learning
