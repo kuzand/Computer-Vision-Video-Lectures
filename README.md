@@ -51,11 +51,11 @@ https://www.udacity.com/course/introduction-to-computer-vision--ud810
 https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
 
 * Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers  
-https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI
+https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI  
 https://vision.in.tum.de/teaching/online/cvvm
 
 * Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers  
-https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
+https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4  
 https://vision.in.tum.de/teaching/online/mvg
 
 * Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay  
@@ -125,7 +125,7 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
 ## Machine Learning
 
 * Machine Learning CS229 (Stanford) Autumn 2018, Prof. Andrew Ng  
-https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU  
 http://cs229.stanford.edu/
 
 * Machine Learning for Computer Vision (TU München), Dr. Rudolph Triebel  
@@ -141,7 +141,7 @@ https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
 
 * Applied Machine Learning COMS W4995 (Columbia), Andreas C. Müller  
-https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
+https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM  
 https://www.cs.columbia.edu/~amueller/comsw4995s20/
 
 * Probabilistic and Statistical Machine Learning (University of Tübingen), Prof. Philipp Hennig,  Prof. U. von Luxburg  
