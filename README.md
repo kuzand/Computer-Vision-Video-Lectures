@@ -131,6 +131,9 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
 
 ## Deep Learning
 
+* Deep Learning CS230 (Stanford), Prof. Andrew Ng and Kian Katanforoosh  
+http://cs230.stanford.edu/lecture/
+
 * Deep Learning Specialization, Prof. Andrew Ng  
 https://www.coursera.org/specializations/deep-learning
 
