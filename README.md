@@ -115,6 +115,7 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
 
 * Machine Learning CS229 (Stanford) Autumn 2018, Prof. Andrew Ng  
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+http://cs229.stanford.edu/
 
 * Machine Learning for Computer Vision (TU München), Dr. Rudolph Triebel  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl
@@ -127,6 +128,10 @@ https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 
 * Introduction to Machine Learning and Pattern Recognition (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
+
+* Applied Machine Learning COMS W4995 (Columbia), Andreas C. Müller  
+https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
+https://www.cs.columbia.edu/~amueller/comsw4995s20/
 
 
 ## Deep Learning
