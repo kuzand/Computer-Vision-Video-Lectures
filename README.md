@@ -137,4 +137,5 @@ http://cs230.stanford.edu/lecture/
 * Deep Learning Specialization, Prof. Andrew Ng  
 https://www.coursera.org/specializations/deep-learning
 
-*
+* Introduction to Deep Learning 6.S191 (MIT), Alexander Amini and Ava Soleimany  
+https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
