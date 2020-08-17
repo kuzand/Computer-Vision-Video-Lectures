@@ -9,7 +9,7 @@ Constantly updated...
 * Signals and Systems 6.003 (MIT), Prof. Dennis Freeman   
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/
 
-* Digital Signal Processing ECSE-4530, Richard Radke  
+* Digital Signal Processing ECSE-4530 (Rensselaer Polytechnic Institute), Richard Radke  
 https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 
 * Digital Signal Processing (EPFL), Paolo Prandoni, Martin Vetterli  
@@ -25,7 +25,7 @@ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
 https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
 https://www.coursera.org/learn/image-processing
 
-* Introduction to Image Processing, Richard Radke  
+* Introduction to Image Processing (Rensselaer Polytechnic Institute), Richard Radke  
 https://www.ecse.rpi.edu/~rjradke/improccourse.html
 
 * Fundamentals of Digital Image and Video Processing (Northwestern University), Prof. Aggelos K. Katsaggelos  
