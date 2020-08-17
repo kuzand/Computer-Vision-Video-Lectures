@@ -52,9 +52,11 @@ https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
 
 * Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI
+https://vision.in.tum.de/teaching/online/cvvm
 
 * Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4
+https://vision.in.tum.de/teaching/online/mvg
 
 * Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay  
 https://nptel.ac.in/courses/106/105/106105216/
