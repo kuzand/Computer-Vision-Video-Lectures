@@ -58,7 +58,7 @@ https://vision.in.tum.de/teaching/online/cvvm
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4  
 https://vision.in.tum.de/teaching/online/mvg
 
-* Multiple View Geometry in Computer Vision, Sean Mullery  
+* Multiple View Geometry in Computer Vision (IT Sligo), Sean Mullery  
 https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj
 
 * Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay  
