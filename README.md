@@ -42,7 +42,8 @@ https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
 https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
 
 * Computer Vision 2014 (UCF), Dr. Mubarak Shah  
-https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9
+https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9  
+https://www.crcv.ucf.edu/courses/cap5415-fall-2014/
 
 * Introduction to Computer Vision CS-6476 (Georgia Tech)  
 https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos  
