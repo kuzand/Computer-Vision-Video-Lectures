@@ -38,7 +38,7 @@ https://www.youtube.com/playlist?list=PLyED3W677ALNooyk3LAVqhNaPJdY7h2XU
 ## Introductory Computer Vision
 
 * Computer Vision 2012 (UCF), Dr. Mubarak Shah  
-https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
+https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm  
 https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
 
 * Computer Vision 2014 (UCF), Dr. Mubarak Shah  
