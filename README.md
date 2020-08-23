@@ -154,6 +154,9 @@ https://www.cs.columbia.edu/~amueller/comsw4995s20/
 * Probabilistic and Statistical Machine Learning (University of Tübingen), Prof. Philipp Hennig,  Prof. U. von Luxburg  
 https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
 
+* Introduction to Machine Learning for Coders, Jeremy Howard  
+https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
+
 
 ## Deep Learning
 
@@ -165,3 +168,7 @@ https://www.coursera.org/specializations/deep-learning
 
 * Introduction to Deep Learning 6.S191 (MIT), Alexander Amini and Ava Soleimany  
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+* Practical Deep Learning for Coders (fast.ai), Jeremy Howard  
+https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM  
+https://course.fast.ai/
