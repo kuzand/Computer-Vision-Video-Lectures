@@ -76,7 +76,8 @@ https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MD
 https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
 
 * The Ancient Secrets of Computer Vision (University of Washington), Joseph Redmon    
-https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p
+https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p  
+https://pjreddie.com/courses/computer-vision/
 
 
 ## Advanced Computer Vision 
