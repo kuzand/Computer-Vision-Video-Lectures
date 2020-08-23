@@ -85,8 +85,9 @@ https://pjreddie.com/courses/computer-vision/
 * Advanced Computer Vision (CBCSL), Aleix M. Martinez  
 https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
 
-* Advanced Computer Vision CAP6412 (UCF), Dr. Mubarak Shah   
-https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar
+* Advanced Computer Vision CAP6412 – Spring 2019 (UCF), Dr. Mubarak Shah   
+https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar  
+https://www.crcv.ucf.edu/courses/cap6412-spring-2019/
 
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
 http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule
