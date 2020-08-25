@@ -20,8 +20,8 @@ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
 ## Image and Video processing
 
 * Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  (Duke University), Prof. Guillermo Sapiro  
-https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
-https://www.coursera.org/learn/image-processing
+-> https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
+-> https://www.coursera.org/learn/image-processing
 
 * Introduction to Image Processing (Rensselaer Polytechnic Institute), Richard Radke  
 https://www.ecse.rpi.edu/~rjradke/improccourse.html
