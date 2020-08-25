@@ -131,7 +131,8 @@ https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
 
 * Machine Learning CS229 (Stanford) Autumn 2018, Prof. Andrew Ng  
 https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU  
-http://cs229.stanford.edu/
+http://cs229.stanford.edu/  
+https://see.stanford.edu/Course/CS229
 
 * Machine Learning for Computer Vision (TU München), Dr. Rudolph Triebel  
 https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl
