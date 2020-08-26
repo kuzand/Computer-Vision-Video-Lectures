@@ -156,6 +156,9 @@ A curated list of free online courses with high-quality video lectures related t
 * Introduction to Machine Learning for Coders, Jeremy Howard  
 ➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
 
+* Introduction to Machine Learning ECE 5984 (Virginia Tech), Prof. Dhruv Batra  
+➫ https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu
+➫ https://filebox.ece.vt.edu/~s15ece5984/
 
 ## Deep Learning
 
@@ -171,3 +174,7 @@ A curated list of free online courses with high-quality video lectures related t
 * Practical Deep Learning for Coders (fast.ai), Jeremy Howard  
 ➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM  
 ➫ https://course.fast.ai/
+
+* Deep Learning for Perception ECE 6504 (Virginia Tech), Prof. Dhruv Batra  
+➫ https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7  
+➫ https://computing.ece.vt.edu/~f15ece6504/
