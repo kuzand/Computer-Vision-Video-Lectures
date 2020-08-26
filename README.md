@@ -2,7 +2,7 @@
 
 A curated list of free online courses with video lectures related to the field of Computer Vision.
 
-## Signal processing
+## Signal Processing
 
 * Signals and Systems 6.003 (MIT), Prof. Dennis Freeman   
 ➫ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/
@@ -17,7 +17,7 @@ A curated list of free online courses with video lectures related to the field o
 ➫ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
 
 
-## Image and Video processing
+## Image and Video Processing
 
 * Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  (Duke University), Prof. Guillermo Sapiro  
 ➫ https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
@@ -115,7 +115,7 @@ A curated list of free online courses with video lectures related to the field o
 ➫ https://www.youtube.com/watch?v=CLOAswsxudo
 
 
-## Human vision and perception
+## Human Vision and Perception
 
 * Sensory Systems 9.04 (MIT)  
 ➫ https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-04-sensory-systems-fall-2013/index.htm
