@@ -81,93 +81,93 @@ A curated list of free online courses with video lectures related to the field o
 ## Advanced Computer Vision 
 
 * Advanced Computer Vision CAP6412 – Spring 2019 (UCF), Dr. Mubarak Shah   
--> https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar  
--> https://www.crcv.ucf.edu/courses/cap6412-spring-2019/
+➫ https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar  
+➫ https://www.crcv.ucf.edu/courses/cap6412-spring-2019/
 
 * Advanced Computer Vision (CBCSL), Aleix M. Martinez  
--> https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
+➫ https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
 
 * Graduate Summer School on Computer Vision (IPAM at UCLA)  
--> http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule
+➫ http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule
 
 * Photogrammetry (University of Bonn), Cyrill Stachniss  
--> https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
+➫ https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
 
 * Sensors and State Estimation (University of Bonn), Cyrill Stachniss  
--> https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6
+➫ https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6
 
 
 ## Deep Learning for Computer Vision
 
 * CS231n Convolutional Neural Networks for Visual Recognition (Stanford)  
--> http://cs231n.stanford.edu/
+➫ http://cs231n.stanford.edu/
 
 * Deep Learning for Computer Vision (UMich)  
--> https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+➫ https://web.eecs.umich.edu/~justincj/teaching/eecs498/
 
 * Convolutional Neural Networks, Prof. Andrew Ng  
--> https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+➫ https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
 
 * Convolutional Networks, Ian Goodfellow  
--> https://www.youtube.com/watch?v=Xogn6veSyxA
+➫ https://www.youtube.com/watch?v=Xogn6veSyxA
 
 * Computer Vision MIT 6.S094, Lex Fridman  
--> https://www.youtube.com/watch?v=CLOAswsxudo
+➫ https://www.youtube.com/watch?v=CLOAswsxudo
 
 
 ## Human vision and perception
 
 * Sensory Systems 9.04 (MIT)  
--> https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-04-sensory-systems-fall-2013/index.htm
+➫ https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-04-sensory-systems-fall-2013/index.htm
 
 * Visual Perception and the Brain (Duke University)  
--> https://www.coursera.org/learn/visual-perception
+➫ https://www.coursera.org/learn/visual-perception
 
 * High-level Vision (CBCSL)  
--> https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
+➫ https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN
 
 
 ## Machine Learning
 
 * Machine Learning CS229 (Stanford) Autumn 2018, Prof. Andrew Ng  
--> https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU  
--> http://cs229.stanford.edu/  
--> https://see.stanford.edu/Course/CS229
+➫ https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU  
+➫ http://cs229.stanford.edu/  
+➫ https://see.stanford.edu/Course/CS229
 
 * Machine Learning for Computer Vision (TU München), Dr. Rudolph Triebel  
--> https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl
+➫ https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl
 
 * Machine Learning Course CS156 (Caltech), Prof. Yaser Abu-Mostafa  
--> https://www.youtube.com/playlist?list=PLD63A284B7615313A
+➫ https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
 * Machine Learning for Intelligent Systems CS4780 (Cornell), Prof. Killian Weiberger  
--> https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+➫ https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 
 * Introduction to Machine Learning and Pattern Recognition (CBCSL), Aleix M. Martinez  
--> https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
+➫ https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b
 
 * Applied Machine Learning COMS W4995 (Columbia), Andreas C. Müller  
--> https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM  
--> https://www.cs.columbia.edu/~amueller/comsw4995s20/
+➫ https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM  
+➫ https://www.cs.columbia.edu/~amueller/comsw4995s20/
 
 * Probabilistic and Statistical Machine Learning (University of Tübingen), Prof. Philipp Hennig,  Prof. U. von Luxburg  
--> https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
+➫ https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC
 
 * Introduction to Machine Learning for Coders, Jeremy Howard  
--> https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
+➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
 
 
 ## Deep Learning
 
 * Deep Learning CS230 (Stanford), Prof. Andrew Ng and Kian Katanforoosh  
--> http://cs230.stanford.edu/lecture/
+➫ http://cs230.stanford.edu/lecture/
 
 * Deep Learning Specialization, Prof. Andrew Ng  
--> https://www.coursera.org/specializations/deep-learning
+➫ https://www.coursera.org/specializations/deep-learning
 
 * Introduction to Deep Learning 6.S191 (MIT), Alexander Amini and Ava Soleimany  
--> https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+➫ https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 * Practical Deep Learning for Coders (fast.ai), Jeremy Howard  
--> https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM  
--> https://course.fast.ai/
+➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM  
+➫ https://course.fast.ai/
