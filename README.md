@@ -5,16 +5,16 @@ A curated list of free online courses with video lectures related to the field o
 ## Signal processing
 
 * Signals and Systems 6.003 (MIT), Prof. Dennis Freeman   
-➤ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/
+➫ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/
 
 * Digital Signal Processing ECSE-4530 (Rensselaer Polytechnic Institute), Richard Radke  
-➤ https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
+➫ https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et
 
 * Digital Signal Processing (EPFL), Paolo Prandoni, Martin Vetterli  
-➤ https://www.coursera.org/learn/dsp
+➫ https://www.coursera.org/learn/dsp
 
 * Digital Image Processing (NPTEL), Prof. P.K. Biswas  
-➤ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
+➫ https://www.youtube.com/playlist?list=PL2C2F76FCF806C973
 
 
 ## Image and Video processing
@@ -36,46 +36,46 @@ A curated list of free online courses with video lectures related to the field o
 ## Introductory Computer Vision
 
 * Computer Vision 2012 (UCF), Dr. Mubarak Shah  
-➮ https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm  
-➮ https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
+➫ https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm  
+➫ https://www.crcv.ucf.edu/courses/cap5415-fall-2012/
 
 * Computer Vision 2014 (UCF), Dr. Mubarak Shah  
-➮ https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9  
-➮ https://www.crcv.ucf.edu/courses/cap5415-fall-2014/
+➫ https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9  
+➫ https://www.crcv.ucf.edu/courses/cap5415-fall-2014/
 
 * Introduction to Computer Vision CS-6476 (Georgia Tech)  
-⮞ https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos  
-⮞ https://www.udacity.com/course/introduction-to-computer-vision--ud810
+➫ https://www.omscs.gatech.edu/cs-6476-computer-vision-course-videos  
+➫ https://www.udacity.com/course/introduction-to-computer-vision--ud810
 
 * Computer Vision EENG 512 (CS Mines), William Hoff  
-⮞ https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
+➫ https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3
 
 * Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers  
-⮞ https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI  
-⮞ https://vision.in.tum.de/teaching/online/cvvm
+➫ https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI  
+➫ https://vision.in.tum.de/teaching/online/cvvm
 
 * Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers  
-➢ https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4  
-➢ https://vision.in.tum.de/teaching/online/mvg
+➫ https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4  
+➫ https://vision.in.tum.de/teaching/online/mvg
 
 * Multiple View Geometry in Computer Vision (IT Sligo), Sean Mullery  
-➢ https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj
+➫ https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj
 
 * Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay  
-➢ https://nptel.ac.in/courses/106/105/106105216/
+➫ https://nptel.ac.in/courses/106/105/106105216/
 
 * Computer Vision (EPFL), Pascal Fua     
-➪ http://klewel.com/conferences/epfl-computer-vision/
+➫ http://klewel.com/conferences/epfl-computer-vision/
 
 * Computer Vision for Visual Effects ECSE-6969, Richard Radke    
-➪ https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a
+➫ https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a
 
 * Image processing and Computer Vision (CBCSL), Aleix M. Martinez  
-➪ https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
+➫ https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
 
 * The Ancient Secrets of Computer Vision (University of Washington), Joseph Redmon    
-➪ https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p  
-➪ https://pjreddie.com/courses/computer-vision/
+➫ https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p  
+➫ https://pjreddie.com/courses/computer-vision/
 
 
 ## Advanced Computer Vision 
