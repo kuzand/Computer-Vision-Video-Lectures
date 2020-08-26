@@ -157,7 +157,7 @@ A curated list of free online courses with high-quality video lectures related t
 ➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
 
 * Introduction to Machine Learning ECE 5984 (Virginia Tech), Prof. Dhruv Batra  
-➫ https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu
+➫ https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu  
 ➫ https://filebox.ece.vt.edu/~s15ece5984/
 
 ## Deep Learning
