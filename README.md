@@ -62,10 +62,10 @@ A curated list of free, high-quality, university-level courses with video lectur
 ## Introductory Computer Vision
 
 * **Computer Vision CAP5415 (UCF), Dr. Mubarak Shah**  
-[[Course website 2012]](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/) |
-[[Course website 2014]](https://www.crcv.ucf.edu/courses/cap5415-fall-2014/) |
-[YouTube 2012](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm) |
-[YouTube 2014](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) |
+[[Course website 2012]](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)
+[[Course website 2014]](https://www.crcv.ucf.edu/courses/cap5415-fall-2014/)
+[[YouTube 2012]](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)
+[[YouTube 2014]](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
 
   The course is introductory level. It will cover the basic topics of computer vision, and introduce some fundamental approaches for computer vision research.
 
@@ -167,7 +167,7 @@ learning techniques applied in this area.
   
 
 * **Deep Learning for Computer Vision (University of Michigan), Justin Johnson**  
-[[Course website]](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) | 
+[[Course website]](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) 
 
   Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification and object detection. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of neural-network based deep learning methods for computer vision. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. We will cover learning algorithms, neural network architectures, and practical engineering tricks for training and fine-tuning networks for visual recognition tasks.
 
