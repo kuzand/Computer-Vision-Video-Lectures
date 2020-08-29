@@ -76,7 +76,7 @@ A curated list of free, high-quality, university-level courses with video lectur
 
 
 * **Quantitative Big Imaging: From Images to Statistics (ETH Zurich),	K. S. Mader, M. Stampanoni**  
-[[Course]](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019S&ansicht=KATALOGDATEN&lerneinheitId=128120&lang=en) [[YouTube]](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
+[[Course]](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019S&ansicht=KATALOGDATEN&lerneinheitId=128120&lang=en) [[YouTube]](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw) [[GitHub]](https://github.com/kmader/Quantitative-Big-Imaging-2019)
 
   The lecture focuses on the challenging task of extracting robust, quantitative metrics from imaging data and is intended to bridge the gap between pure signal processing and the experimental science of imaging. The course will focus on techniques, scalability, and science-driven analysis.
  
