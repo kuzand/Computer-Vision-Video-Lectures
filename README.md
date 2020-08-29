@@ -288,7 +288,7 @@ The course will also discuss recent applications of machine learning, such as to
 * **Deep Learning for Perception ECE 6504 (Virginia Tech), Prof. Dhruv Batra**  
 [[Course website]](https://computing.ece.vt.edu/~f15ece6504/) [[YouTube]](https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7)
 
-  This course will expose students to cutting-edge research — starting from a refresher in basics of neural networks, to recent developments. The emphasis will be on student-led paper presentations and discussions. Each “module” will begin with instructor lectures to present context and background material.
+  This course will expose students to cutting-edge research — starting from a refresher in basics of neural networks, to recent developments.
 
 
 * **Deep Learning and Artificial Intelligence Lectures (MIT)**  
