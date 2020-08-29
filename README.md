@@ -6,25 +6,22 @@ A curated list of free online courses with high-quality video lectures related t
 ## Signal Processing
 
 
-* Signals and Systems 6.003 (MIT), Prof. Dennis Freeman
+* [Signals and Systems 6.003](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)  
+*Prof. Dennis Freeman (MIT)*
 
-  > Signals and Systems 6.003 covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.
-
-  [Course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)
+  Signals and Systems 6.003 covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.
     
 
-* Digital Signal Processing ECSE-4530 (Rensselaer Polytechnic Institute), Richard Radke  
+* [Digital Signal Processing ECSE-4530](https://www.ecse.rpi.edu/~rjradke/dspcourse.html) | [YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)    
+*Richard Radke (Rensselaer Polytechnic Institute)*  
 
-  > This course provides a comprehensive treatment of the theory, design, and implementation of digital signal processing algorithms. In the first half of the course, we emphasize frequency-domain and Z-transform analysis. In the second half of the course, we investigate advanced topics in signal processing, including multirate signal processing, filter design, adaptive filtering, quantizer design, and power spectrum estimation. The course is fairly application-independent, to provide a strong theoretical foundation for future study in communications, control, or image processing. This course was originally offered at the graduate level but retooled in 2009 to be senior-level. 
-
-  [Course website](https://www.ecse.rpi.edu/~rjradke/dspcourse.html) | [YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+  This course provides a comprehensive treatment of the theory, design, and implementation of digital signal processing algorithms. In the first half of the course, we emphasize frequency-domain and Z-transform analysis. In the second half of the course, we investigate advanced topics in signal processing, including multirate signal processing, filter design, adaptive filtering, quantizer design, and power spectrum estimation. The course is fairly application-independent, to provide a strong theoretical foundation for future study in communications, control, or image processing. This course was originally offered at the graduate level but retooled in 2009 to be senior-level. 
 
 
-* Digital Signal Processing (EPFL), Paolo Prandoni, Martin Vetterli  
+* [Digital Signal Processing](https://www.coursera.org/learn/dsp)  
+*Paolo Prandoni, Martin Vetterli (EPFL)*
 
-  > In this series of four courses, you will learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
-
-  [Course website](https://www.coursera.org/learn/dsp)
+  In this series of four courses, you will learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
 
 
 
