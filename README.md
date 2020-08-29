@@ -69,6 +69,13 @@ A curated list of free, high-quality, university-level courses with video lectur
   This course covers the following topics: 2-D sequences and systems, separable systems, projection slice thm, reconstruction from projections and partial Fourier information, Z transform, different equations, recursive computability, 2D DFT and FFT, 2D FIR filter design; human eye, perception, psychophysical vision properties, photometry and colorimetry, optics and image systems; image enhancement, image restoration, geometrical image modification, morphological image processing, halftoning, edge detection, image compression: scalar quantization, lossless coding, huffman coding, arithmetic coding dictionary techniques, waveform and transform coding DCT, KLT, Hadammard, multiresolution coding pyramid, subband coding, Fractal coding, vector quantization, motion estimation and compensation, standards: JPEG, MPEG, H.xxx, pre- and post-processing, scalable image and video coding, image and video communication over noisy channels.
 
 
+* **Digital Image Processing I EE637 (Purdue University), Prof. Charles A. Bouman**  
+[[Course]](https://engineering.purdue.edu/~bouman/ece637/) [[YouTube]](https://www.youtube.com/playlist?list=PL3ZrjaBngMS15UhKHUnNqW5wLBA4vlQeB)
+
+  Introduction to digital image processing techniques for enhancement, compression, restoration, reconstruction, and analysis. Lecture and laboratory experiments covering a wide range of topics including 2-D signals and systems, image analysis, image segmentation; achromatic vision, color image processing, color imaging systems, image sharpening, interpolation, decimation, linear and nonlinear filtering, printing and display of images; image compression, image restoration, and tomography.
+
+
+
 
 ## Introductory Computer Vision
 
