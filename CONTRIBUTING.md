@@ -1,6 +1,6 @@
 Any contributions are welcome, especially the addition of links to free, high-quality, university-level courses with video lectures related to the field of Computer Vision that are not currently listed here. 
 
-To add a new course, please follow the existing format (title, university, lecturer, link to website and/or youtube list, short description).
+To add a new course, please follow the existing format (course title, university, lecturer, link to website and/or youtube list, short description).
 
 # Guidelines
 
@@ -9,6 +9,6 @@ To add a new course, please follow the existing format (title, university, lectu
 3. Type a meaningful title and description for your pull request.
 3. Press **Create Pull Request**.
 
-Your pull request will be reviewed and hopefully merged into the repository.
+Your pull-request will be reviewed and hopefully merged into the repository.
 
-For more details on how to make pull requests see the [docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+For more details on how to make pull-requests see the [docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
