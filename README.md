@@ -75,6 +75,12 @@ A curated list of free, high-quality, university-level courses with video lectur
   Introduction to digital image processing techniques for enhancement, compression, restoration, reconstruction, and analysis. Lecture and laboratory experiments covering a wide range of topics including 2-D signals and systems, image analysis, image segmentation; achromatic vision, color image processing, color imaging systems, image sharpening, interpolation, decimation, linear and nonlinear filtering, printing and display of images; image compression, image restoration, and tomography.
 
 
+* **Quantitative Big Imaging: From Images to Statistics (ETH Zurich),	K. S. Mader, M. Stampanoni**  
+[[Course]](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019S&ansicht=KATALOGDATEN&lerneinheitId=128120&lang=en) [[YouTube]](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
+
+  The lecture focuses on the challenging task of extracting robust, quantitative metrics from imaging data and is intended to bridge the gap between pure signal processing and the experimental science of imaging. The course will focus on techniques, scalability, and science-driven analysis.
+ 
+
 
 
 ## Introductory Computer Vision
