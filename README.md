@@ -28,7 +28,7 @@ A curated list of free, high-quality, university-level courses with video lectur
 ## Image and Video Processing
 
 * **Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  (Duke University), Prof. Guillermo Sapiro**    
-[[Course]](https://www.coursera.org/learn/image-processing) [[YouTube]](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
+[[Course]](https://www.coursera.org/learn/image-processing) [[YouTube]](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
 
   In this course, you will learn the science behind how digital images and video are made, altered, stored, and used. We will look at the vast world of digital imaging, from how computers and digital cameras form images to how digital special effects are used in Hollywood movies to how the Mars Rover was able to send photographs across millions of miles of space.
 
