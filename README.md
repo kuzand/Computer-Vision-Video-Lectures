@@ -23,8 +23,9 @@ A curated list of free online courses with high-quality video lectures related t
 ➫ https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs  
 ➫ https://www.coursera.org/learn/image-processing
 
-* Introduction to Image Processing (Rensselaer Polytechnic Institute), Richard Radke  
-➫ https://www.ecse.rpi.edu/~rjradke/improccourse.html
+* Image Processing Introduction to Digital Image Processing ECSE-4540, Richard Radke (Rensselaer Polytechnic Institute)
+➫ https://www.ecse.rpi.edu/~rjradke/improccourse.html  
+➫ https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX
 
 * Fundamentals of Digital Image and Video Processing (Northwestern University), Prof. Aggelos K. Katsaggelos  
 ➫ https://www.coursera.org/learn/digital?
