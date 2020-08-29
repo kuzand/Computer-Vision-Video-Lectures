@@ -160,10 +160,16 @@ learning techniques applied in this area.
 [[Course 2019]](https://www.crcv.ucf.edu/courses/cap6412-spring-2019/) [[YouTube]](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar)
 
   This is an Advanced Computer Vision which will expose graduate students to the cutting-edge research. In each class we will discuss one recent research paper related to active areas of current research, in particular employing Deep Learning. Computer vision has been very active area of research for many decades and researchers have been working on solving important challenging problems. During the last few years, Deep Learning involving Artificial Neural Networks has been disruptive force in computer vision. Employing deep learning, tremendous progress has been made in a very short time in solving difficult problems and very impressive results have obtained in image and video classification, localization, semantic segmentation, etc. New techniques, datasets, hardware and software libraries are emerging almost every day. Deep Computer vision is impacting research in Robotics, Natural Language understanding, Computer Graphics, multi-modal analysis etc.
-  
+
 
 * **Advanced Computer Vision (CBCSL), Aleix M. Martinez**  
 [[YouTube]](https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T)
+
+
+* **Machine Learning for Computer Vision (Heidelberg University), Prof. Fred Hamprecht**  
+[[Course]](https://hci.iwr.uni-heidelberg.de/ial/mlcv) [[YouTube]](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
+
+  This course covers advanced machine learning methods allowing for so-called "structured prediction". The goal is to make multiple predictions that interact in a nontrivial way; and we take these interactions into account both during training and at test time.
 
 
 * **Graduate Summer School on Computer Vision (IPAM at UCLA)**  
@@ -180,6 +186,8 @@ learning techniques applied in this area.
 
 * **Mobile Sensing And Robotics II (University of Bonn), Cyrill Stachniss**  
 [[Course]](https://www.ipb.uni-bonn.de/msr2-2020/) [[YouTube]](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+
+
 
 
 ## Deep Learning for Computer Vision
@@ -243,7 +251,7 @@ The course will also discuss recent applications of machine learning, such as to
   In this lecture, the students will be introduced into the most frequently used machine learning methods in computer vision and robotics applications. The major aim of the lecture is to obtain a broad overview of existing methods, and to understand their motivations and main ideas in the context of computer vision and pattern recognition.
   
 
-* **Machine Learning Course CS156 (Caltech), Prof. Yaser Abu-Mostafa**  
+* **Machine Learning CS156 (Caltech), Prof. Yaser Abu-Mostafa**  
 [[Course]](http://work.caltech.edu/telecourse.html) [[YouTube]](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
   This is an introductory course by Caltech Professor Yaser Abu-Mostafa on machine learning that covers the basic theory, algorithms, and applications. Machine learning (ML) enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML techniques are widely applied in engineering, science, finance, and commerce to build systems for which we do not have full mathematical specification (and that covers a lot of systems). The course balances theory and practice, and covers the mathematical as well as the heuristic aspects.
