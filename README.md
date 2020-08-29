@@ -1,6 +1,6 @@
 # Computer Vision Video Lectures
 
-A curated list of free online courses with high-quality video lectures related to the field of Computer Vision.
+A curated list of free, high-quality, university-level courses with video lectures related to the field of Computer Vision.
 
 
 ## Signal Processing
