@@ -166,12 +166,6 @@ learning techniques applied in this area.
 [[YouTube]](https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T)
 
 
-* **Machine Learning for Computer Vision (Heidelberg University), Prof. Fred Hamprecht**  
-[[Course]](https://hci.iwr.uni-heidelberg.de/ial/mlcv) [[YouTube]](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
-
-  This course covers advanced machine learning methods allowing for so-called "structured prediction". The goal is to make multiple predictions that interact in a nontrivial way; and we take these interactions into account both during training and at test time.
-
-
 * **Graduate Summer School on Computer Vision (IPAM at UCLA)**  
 [[Course]](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule)
 
@@ -243,6 +237,12 @@ learning techniques applied in this area.
 
   This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs; VC theory; large margins); reinforcement learning and adaptive control.
 The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
+
+
+* **Machine Learning for Computer Vision (Heidelberg University), Prof. Fred Hamprecht**  
+[[Course]](https://hci.iwr.uni-heidelberg.de/ial/mlcv) [[YouTube]](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
+
+  This course covers advanced machine learning methods allowing for so-called "structured prediction". The goal is to make multiple predictions that interact in a nontrivial way; and we take these interactions into account both during training and at test time.
 
 
 * **Machine Learning for Robotics and Computer Vision (TU München), Dr. Rudolph Triebel**  
