@@ -293,3 +293,8 @@ The course will also discuss recent applications of machine learning, such as to
 
 * **Deep Learning and Artificial Intelligence Lectures (MIT)**  
 [[Course website]](https://deeplearning.mit.edu/) [[YouTube]](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
+
+
+
+dsfsdfsddsfdsf
