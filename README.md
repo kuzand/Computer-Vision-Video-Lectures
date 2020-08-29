@@ -6,19 +6,19 @@ A curated list of free online courses with high-quality video lectures related t
 ## Signal Processing
 
 * **Signals and Systems 6.003 (MIT), Prof. Dennis Freeman**  
-[Course website](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)
+[[Course website]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/)
 
   Signals and Systems 6.003 covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.
     
 
 * **Digital Signal Processing ECSE-4530 (Rensselaer Polytechnic Institute), Richard Radke**  
-[Course website](https://www.ecse.rpi.edu/~rjradke/dspcourse.html) | [YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+[[Course website]](https://www.ecse.rpi.edu/~rjradke/dspcourse.html) [[YouTube]](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
 
   This course provides a comprehensive treatment of the theory, design, and implementation of digital signal processing algorithms. In the first half of the course, we emphasize frequency-domain and Z-transform analysis. In the second half of the course, we investigate advanced topics in signal processing, including multirate signal processing, filter design, adaptive filtering, quantizer design, and power spectrum estimation. The course is fairly application-independent, to provide a strong theoretical foundation for future study in communications, control, or image processing. This course was originally offered at the graduate level but retooled in 2009 to be senior-level. 
 
 
 * **Digital Signal Processing (EPFL), Paolo Prandoni, Martin Vetterli**  
-[Course website](https://www.coursera.org/learn/dsp)
+[[Course website]](https://www.coursera.org/learn/dsp)
 
   In this series of four courses, you will learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
 
@@ -28,7 +28,7 @@ A curated list of free online courses with high-quality video lectures related t
 ## Image and Video Processing
 
 * **Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital  (Duke University), Prof. Guillermo Sapiro**    
-[Course website](https://www.coursera.org/learn/image-processing) | [YouTube](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
+[[Course website]](https://www.coursera.org/learn/image-processing) | [[YouTube]](https://www.youtube.com/watch?v=bxhJEe38bhY&list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
 
   In this course, you will learn the science behind how digital images and video are made, altered, stored, and used. We will look at the vast world of digital imaging, from how computers and digital cameras form images to how digital special effects are used in Hollywood movies to how the Mars Rover was able to send photographs across millions of miles of space.
 
@@ -36,7 +36,7 @@ A curated list of free online courses with high-quality video lectures related t
 
 
 * **Introduction to Digital Image Processing ECSE-4540 (Rensselaer Polytechnic Institute), Richard Radke**  
-[Course website](https://www.ecse.rpi.edu/~rjradke/improccourse.html) | [YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+[[Course website]](https://www.ecse.rpi.edu/~rjradke/improccourse.html) | [[YouTube]](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
 
   An introduction to the field of image processing, covering both analytical and implementation aspects. Topics include the human visual system, cameras and image formation, image sampling and quantization, spatial- and frequency-domain image enhancement, filter design, image restoration, image coding and compression, morphological image processing, color image processing, image segmentation, and image reconstruction. Real-world examples and assignments drawn from consumer digital imaging, security and surveillance, and medical image processing. This course forms a good basis for our extensive graduate image processing and computer vision courses.
 
@@ -109,7 +109,7 @@ learning techniques applied in this area.
 * **Computer Vision CS-442 (EPFL), Pascal Fua**     
 [Course website](http://klewel.com/conferences/epfl-computer-vision/)
 
-  Computer Vision is the branch of Computer Science whose goal is to model the real world or to recognize objects from digital images. These images can be acquired using still and video cameras, infrared cameras, radars, or specialized sensors such as those used in the medical field. The students will be introduced to the basic techniques of the field of Computer Vision. They will learn to apply Image Processing techniques where appropriate. We will concentrate on the black and white and color images acquired using standard video cameras. We will introduce basic processing techniques, such as edge detection, segmentation, texture characterization, and shape recognition.
+  The students will be introduced to the basic techniques of the field of Computer Vision. They will learn to apply Image Processing techniques where appropriate. We will concentrate on the black and white and color images acquired using standard video cameras. We will introduce basic processing techniques, such as edge detection, segmentation, texture characterization, and shape recognition.
 
 
 * **Computer Vision for Visual Effects ECSE-6969, Richard Radke**  
