@@ -53,7 +53,7 @@ A curated list of free, high-quality, university-level courses with video lectur
   This course provides the student with the theoretical background to allow them to apply state of the art image and multi-dimensional signal processing techniques. The course teaches students to solve practical problems involving the processing of multidimensional data such as imagery, video sequences, and volumetric data. The types of problems students are expected to solve are automated mensuration from multidimensional data, and the restoration, reconstruction, or compression of multidimensional data. The tools used in solving these problems include a variety of feature extraction methods, filtering techniques, segmentation techniques, and transform methods. 
 
 
-* **Digital Image Processing (NPTEL), Prof. P.K. Biswas**  
+* **Digital Image Processing (IIT Kanpur), Prof. P.K. Biswas**  
 [[Course]](https://nptel.ac.in/courses/117/105/117105079/) [[YouTube]](https://www.youtube.com/playlist?list=PL2C2F76FCF806C973)
 
 
@@ -122,7 +122,7 @@ A curated list of free, high-quality, university-level courses with video lectur
 [[YouTube]](https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj)
 
 
-* **Computer Vision (NPTEL), Prof. Jayanta Mukhopadhyay**  
+* **Computer Vision (IIT Kanpur), Prof. Jayanta Mukhopadhyay**  
 [[Course]](https://nptel.ac.in/courses/106/105/106105216/)
 
   The course will have a comprehensive coverage of theory and computation related to imaging
@@ -186,6 +186,12 @@ learning techniques applied in this area.
 
 * **Mobile Sensing And Robotics II (University of Bonn), Cyrill Stachniss**  
 [[Course]](https://www.ipb.uni-bonn.de/msr2-2020/) [[YouTube]](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+
+
+* **Biometrics (IIT Kanpur), Prof. Phalguni Gupta**  
+[[Course]](https://nptel.ac.in/courses/106/104/106104119/) [[YouTube]](https://www.youtube.com/playlist?list=PLbMVogVj5nJSCwX0N6MAXPsKGWFRI5Y5m]
+
+  Introduction of Biometric traits and its aim, image processing basics, basic image operations, filtering, enhancement, sharpening, edge detection, smoothening, enhancement, thresholding, localization. Fourier Series, DFT, inverse of DFT. Biometric system, identification and verification. FAR/FRR, system design issues. Positive/negative identification. Biometric system security, authentication protocols, matching score distribution, ROC curve, DET curve, FAR/FRR curve. Expected overall error, EER, biometric myths and misrepresentations. Selection of suitable biometric. Biometric attributes, Zephyr charts, types of multi biometrics. Verification on multimodel system, normalization strategy, Fusion methods, Multimodel identification. Biometric system security, Biometric system vulnerabilities, circumvention, covert acquisition, quality control, template generation, interoperability, data storage. Recognition systems: Face,Signature, Fingerprint,Ear, Iris etc.
 
 
 
