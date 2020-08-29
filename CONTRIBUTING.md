@@ -1,4 +1,5 @@
-Any contributions are welcome, especially the addition of links to free, high-quality, univeresity-level courses with video lectures related to the field of Computer Vision that are not currently listed here.
+Any contributions are welcome, especially the addition of links to free, high-quality, university-level courses with video lectures related to the field of Computer Vision that are not currently listed here. 
+
 To add a new course, please follow the existing format (title, university, lecturer, link to website and/or youtube list, short description).
 
 # Guidelines
