@@ -132,21 +132,30 @@ learning techniques applied in this area.
 
 ## Advanced Computer Vision 
 
-* **Advanced Computer Vision CAP6412 – Spring 2019 (UCF), Dr. Mubarak Shah**   
-➫ https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar  
-➫ https://www.crcv.ucf.edu/courses/cap6412-spring-2019/
+* **Advanced Computer Vision CAP6412 (UCF), Dr. Mubarak Shah**   
+[Course website 2019](https://www.crcv.ucf.edu/courses/cap6412-spring-2019/) | [YouTube](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar)
 
-* Advanced Computer Vision (CBCSL), Aleix M. Martinez  
-➫ https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T
+  This is an Advanced Computer Vision which will expose graduate students to the cutting-edge research. In each class we will discuss one recent research paper related to active areas of current research, in particular employing Deep Learning. Computer vision has been very active area of research for many decades and researchers have been working on solving important challenging problems. During the last few years, Deep Learning involving Artificial Neural Networks has been disruptive force in computer vision. Employing deep learning, tremendous progress has been made in a very short time in solving difficult problems and very impressive results have obtained in image and video classification, localization, semantic segmentation, etc. New techniques, datasets, hardware and software libraries are emerging almost every day. Deep Computer vision is impacting research in Robotics, Natural Language understanding, Computer Graphics, multi-modal analysis etc.
+  
 
-* Graduate Summer School on Computer Vision (IPAM at UCLA)  
-➫ http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule
+* **Advanced Computer Vision (CBCSL), Aleix M. Martinez**  
+[YouTube](https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T)
 
-* Photogrammetry (University of Bonn), Cyrill Stachniss  
-➫ https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1
 
-* Sensors and State Estimation (University of Bonn), Cyrill Stachniss  
-➫ https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6
+* **Graduate Summer School on Computer Vision (IPAM at UCLA)**  
+[Course website](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-computer-vision/?tab=schedule)
+
+
+* **Photogrammetry I & II (University of Bonn), Cyrill Stachniss**  
+[Course website](https://www.ipb.uni-bonn.de/photogrammetry-i-ii/) | [YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
+
+
+* **Mobile Sensing And Robotics I (University of Bonn), Cyrill Stachniss**  
+[YouTube](https://www.youtube.com/watch?v=OSsQX-dMwco&list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)
+
+
+* **Mobile Sensing And Robotics II (University of Bonn), Cyrill Stachniss**  
+[Course website](https://www.ipb.uni-bonn.de/msr2-2020/) | [YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
 
 
 ## Deep Learning for Computer Vision
