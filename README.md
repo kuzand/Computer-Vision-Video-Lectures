@@ -35,7 +35,7 @@ A curated list of free online courses with high-quality video lectures related t
   The course starts by looking at how the human visual system works and then teaches you about the engineering, mathematics, and computer science that makes digital images work. You will learn the basic algorithms used for adjusting images, explore JPEG and MPEG standards for encoding and compressing video images, and go on to learn about image segmentation, noise removal and filtering. Finally, we will end with image processing techniques used in medicine.
 
 
-* **Introduction to Digital Image Processing ECSE-4540, Richard Radke (Rensselaer Polytechnic Institute)**  
+* **Introduction to Digital Image Processing ECSE-4540 (Rensselaer Polytechnic Institute), Richard Radke**  
 [Course website](https://www.ecse.rpi.edu/~rjradke/improccourse.html) | [YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
 
   An introduction to the field of image processing, covering both analytical and implementation aspects. Topics include the human visual system, cameras and image formation, image sampling and quantization, spatial- and frequency-domain image enhancement, filter design, image restoration, image coding and compression, morphological image processing, color image processing, image segmentation, and image reconstruction. Real-world examples and assignments drawn from consumer digital imaging, security and surveillance, and medical image processing. This course forms a good basis for our extensive graduate image processing and computer vision courses.
@@ -47,7 +47,7 @@ A curated list of free online courses with high-quality video lectures related t
   This course will cover the fundamentals of image and video processing.  We will provide a mathematical framework to describe and analyze images and videos as two- and three-dimensional signals in the spatial, spatio-temporal, and frequency domains. In this class not only will you learn the theory behind fundamental processing tasks including image/video enhancement, recovery, and compression - but you will also learn how to perform these key processing tasks in practice using state-of-the-art techniques and tools. We will introduce and use a wide variety of such tools – from optimization toolboxes to statistical techniques. Emphasis on the special role sparsity plays in modern image and video processing will also be given.  In all cases, example images and videos pertaining to specific application domains will be utilized.
   
 
-* **Image and Multidimensional Signal Processing EENG 510 (CS Mines), William Hoff**  
+* **Image and Multidimensional Signal Processing EENG 510 (Colorado School of Mines), William Hoff**  
 [Course website](http://inside.mines.edu/~whoff/courses/EENG510/) | [YouTube](https://www.youtube.com/playlist?list=PLyED3W677ALNooyk3LAVqhNaPJdY7h2XU)
 
   This course provides the student with the theoretical background to allow them to apply state of the art image and multi-dimensional signal processing techniques. The course teaches students to solve practical problems involving the processing of multidimensional data such as imagery, video sequences, and volumetric data. The types of problems students are expected to solve are automated mensuration from multidimensional data, and the restoration, reconstruction, or compression of multidimensional data. The tools used in solving these problems include a variety of feature extraction methods, filtering techniques, segmentation techniques, and transform methods. 
