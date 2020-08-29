@@ -166,7 +166,7 @@ learning techniques applied in this area.
   Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
   
 
-* Deep Learning for Computer Vision (University of Michigan), Justin Johnson  
+* **Deep Learning for Computer Vision (University of Michigan), Justin Johnson**  
 [Course website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) | 
 
   Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification and object detection. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of neural-network based deep learning methods for computer vision. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. We will cover learning algorithms, neural network architectures, and practical engineering tricks for training and fine-tuning networks for visual recognition tasks.
@@ -262,21 +262,34 @@ The course will also discuss recent applications of machine learning, such as to
 ## Deep Learning
 
 * **Deep Learning CS230 (Stanford), Prof. Andrew Ng, Kian Katanforoosh**  
-➫ http://cs230.stanford.edu/lecture/
+[Course website](http://cs230.stanford.edu/) | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
-* **Deep Learning Specialization, Prof. Andrew Ng**  
-➫ https://www.coursera.org/specializations/deep-learning
+  Deep Learning is one of the most highly sought after skills in AI. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
+
+
+* **Deep Learning Specialization, Prof. Andrew Ng, Kian Katanforoosh**  
+[Course website](https://www.coursera.org/specializations/deep-learning)
+
+  In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
+
 
 * **Introduction to Deep Learning 6.S191 (MIT), Alexander Amini and Ava Soleimany**  
-➫ https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+[Course website](http://introtodeeplearning.com/) | [YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+  MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. Course concludes with a project proposal competition with feedback from staff and panel of industry sponsors. Prerequisites assume calculus (i.e. taking derivatives) and linear algebra (i.e. matrix multiplication), we'll try to explain everything else along the way! Experience in Python is helpful but not necessary.
+
 
 * **Practical Deep Learning for Coders (fast.ai), Jeremy Howard**  
-➫ https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM  
-➫ https://course.fast.ai/
+[Course website](https://course.fast.ai/) | [YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+
+  Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD.
+
 
 * **Deep Learning for Perception ECE 6504 (Virginia Tech), Prof. Dhruv Batra**  
-➫ https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7  
-➫ https://computing.ece.vt.edu/~f15ece6504/
+[Course website](https://computing.ece.vt.edu/~f15ece6504/) | [YouTube](https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7)
+
+  This course will expose students to cutting-edge research — starting from a refresher in basics of neural networks, to recent developments. The emphasis will be on student-led paper presentations and discussions. Each “module” will begin with instructor lectures to present context and background material.
+
 
 * **Deep Learning and Artificial Intelligence Lectures (MIT)**  
 [Course website](https://deeplearning.mit.edu/) | [YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
