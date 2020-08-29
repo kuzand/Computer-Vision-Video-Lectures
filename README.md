@@ -160,20 +160,28 @@ learning techniques applied in this area.
 
 ## Deep Learning for Computer Vision
 
-* CS231n Convolutional Neural Networks for Visual Recognition (Stanford)  
-➫ http://cs231n.stanford.edu/
+* **CS231n Convolutional Neural Networks for Visual Recognition (Stanford)**  
+[Course website](http://cs231n.stanford.edu/) | [YouTube](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-* Deep Learning for Computer Vision (UMich)  
-➫ https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+  Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
+  
 
-* Convolutional Neural Networks, Prof. Andrew Ng  
-➫ https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+* Deep Learning for Computer Vision (University of Michigan), Justin Johnson  
+[Course website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) | 
 
-* Convolutional Networks, Ian Goodfellow  
-➫ https://www.youtube.com/watch?v=Xogn6veSyxA
+  Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification and object detection. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of neural-network based deep learning methods for computer vision. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. We will cover learning algorithms, neural network architectures, and practical engineering tricks for training and fine-tuning networks for visual recognition tasks.
 
-* Computer Vision MIT 6.S094, Lex Fridman  
-➫ https://www.youtube.com/watch?v=CLOAswsxudo
+
+* **Convolutional Neural Networks, Prof. Andrew Ng**  
+[Course website](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+  This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
+  
+
+* **Convolutional Networks, Ian Goodfellow**  
+[YouTube](https://www.youtube.com/watch?v=Xogn6veSyxA)
+
+
 
 
 ## Human Vision and Perception
@@ -239,3 +247,6 @@ learning techniques applied in this area.
 * Deep Learning for Perception ECE 6504 (Virginia Tech), Prof. Dhruv Batra  
 ➫ https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7  
 ➫ https://computing.ece.vt.edu/~f15ece6504/
+
+* **Deep Learning and Artificial Intelligence Lectures (MIT)**  
+[Course website](https://deeplearning.mit.edu/)
