@@ -118,6 +118,12 @@ learning techniques applied in this area.
   The students will be introduced to the basic techniques of the field of Computer Vision. They will learn to apply Image Processing techniques where appropriate. We will concentrate on the black and white and color images acquired using standard video cameras. We will introduce basic processing techniques, such as edge detection, segmentation, texture characterization, and shape recognition.
 
 
+* **Computer Vision CS 543 (University of Illinois), Derek Hoiem**  
+[[Course]](https://courses.engr.illinois.edu/cs543/sp2017/) [[Recordings]](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home)
+
+  In this course, we will cover many of the basic concepts and algorithms of computer vision: single-view and multi-view geometry, lighting, linear filters, texture, interest points, tracking, RANSAC, K-means clustering, segmentation, EM algorithm, recognition, and so on. In homeworks, you will put many of these concepts into practice. As this is a survey course, we will not go into great depth on any topic, but at the end of the course, you should be prepared for any further vision-related investigation and application.
+  
+
 * **Computer Vision for Visual Effects ECSE-6969, Richard Radke**  
 [[Course]](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) [[YouTube]](https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 
