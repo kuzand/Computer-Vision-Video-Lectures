@@ -189,7 +189,7 @@ learning techniques applied in this area.
 
 
 * **Biometrics (IIT Kanpur), Prof. Phalguni Gupta**  
-[[Course]](https://nptel.ac.in/courses/106/104/106104119/) [[YouTube]](https://www.youtube.com/playlist?list=PLbMVogVj5nJSCwX0N6MAXPsKGWFRI5Y5m]
+[[Course]](https://nptel.ac.in/courses/106/104/106104119/) [[YouTube]](https://www.youtube.com/playlist?list=PLbMVogVj5nJSCwX0N6MAXPsKGWFRI5Y5m])
 
   Introduction of Biometric traits and its aim, image processing basics, basic image operations, filtering, enhancement, sharpening, edge detection, smoothening, enhancement, thresholding, localization. Fourier Series, DFT, inverse of DFT. Biometric system, identification and verification. FAR/FRR, system design issues. Positive/negative identification. Biometric system security, authentication protocols, matching score distribution, ROC curve, DET curve, FAR/FRR curve. Expected overall error, EER, biometric myths and misrepresentations. Selection of suitable biometric. Biometric attributes, Zephyr charts, types of multi biometrics. Verification on multimodel system, normalization strategy, Fusion methods, Multimodel identification. Biometric system security, Biometric system vulnerabilities, circumvention, covert acquisition, quality control, template generation, interoperability, data storage. Recognition systems: Face,Signature, Fingerprint,Ear, Iris etc.
 
