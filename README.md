@@ -315,6 +315,13 @@ The course will also discuss recent applications of machine learning, such as to
 [[Course]](https://www.coursera.org/specializations/deep-learning)
 
   In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
+  
+  
+* **Deep Learning EE-559 (EPFL), François Fleuret**  
+[[Course]](https://fleuret.org/ee559/)
+
+  This course is a thorough introduction to deep-learning, with examples in the PyTorch framework: machine learning objectives and main challenges, tensor operations, automatic differentiation, gradient descent, deep-learning specific techniques (batchnorm, dropout, residual networks), image understanding, generative models, adversarial generative models, recurrent models, attention models, NLP.
+
 
 
 * **Introduction to Deep Learning 6.S191 (MIT), Alexander Amini and Ava Soleimany**  
