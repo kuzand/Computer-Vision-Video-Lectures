@@ -251,6 +251,12 @@ learning techniques applied in this area.
 The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
 
 
+* **Machine Learning CS156 (Caltech), Prof. Yaser Abu-Mostafa**  
+[[Course]](http://work.caltech.edu/telecourse.html) [[YouTube]](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
+  This is an introductory course by Caltech Professor Yaser Abu-Mostafa on machine learning that covers the basic theory, algorithms, and applications. Machine learning (ML) enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML techniques are widely applied in engineering, science, finance, and commerce to build systems for which we do not have full mathematical specification (and that covers a lot of systems). The course balances theory and practice, and covers the mathematical as well as the heuristic aspects.
+
+
 * **Machine Learning for Computer Vision (Heidelberg University), Prof. Fred Hamprecht**  
 [[Course]](https://hci.iwr.uni-heidelberg.de/ial/mlcv) [[YouTube]](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
 
@@ -261,12 +267,6 @@ The course will also discuss recent applications of machine learning, such as to
 [[Course]](https://vision.in.tum.de/teaching/online/ml4cv) [[YouTube]](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
 
   In this lecture, the students will be introduced into the most frequently used machine learning methods in computer vision and robotics applications. The major aim of the lecture is to obtain a broad overview of existing methods, and to understand their motivations and main ideas in the context of computer vision and pattern recognition.
-  
-
-* **Machine Learning CS156 (Caltech), Prof. Yaser Abu-Mostafa**  
-[[Course]](http://work.caltech.edu/telecourse.html) [[YouTube]](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
-
-  This is an introductory course by Caltech Professor Yaser Abu-Mostafa on machine learning that covers the basic theory, algorithms, and applications. Machine learning (ML) enables computational systems to adaptively improve their performance with experience accumulated from the observed data. ML techniques are widely applied in engineering, science, finance, and commerce to build systems for which we do not have full mathematical specification (and that covers a lot of systems). The course balances theory and practice, and covers the mathematical as well as the heuristic aspects.
 
 
 * **Machine Learning for Intelligent Systems CS4780 (Cornell), Prof. Killian Weiberger**  
