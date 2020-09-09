@@ -350,4 +350,25 @@ The course will also discuss recent applications of machine learning, such as to
 
 ## Computer Graphics
 
-*
+* **Computer Graphics (Utrecht University), Wolfgang Huerst**  
+[[YouTube]](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
+
+  Recordings from an introductory lecture about computer graphics given by Wolfgang Hürst, Utrecht University, The Netherlands, from April 2012 till June 2012.
+
+
+* **Computer Graphics ECS175 (UC Davis), Prof. Kenneth Joy**  
+[[YouTube]](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g)
+
+  Computer Graphics (ECS175) teaches the basic principles of 3-dimensional computer graphics. The focus will be the elementary mathematics techniques for positioning objects in three dimensional space, the geometric optics necessary to determine how light bounces off surfaces, and the ways to utilize a computer system and methods to implement the algorithms and techniques necessary to produce basic 3-dimensional illustrations. Detailed topics will include the following: transformational geometry, positioning of virtual cameras and light sources, hierarchical modeling of complex objects, rendering of complex models, shading algorithms, and methods for rendering and shading curved objects.
+
+
+* **Computer Graphics CS184 (UC Berkeley), Ravi Ramamoorthi**  
+[[Course]](https://inst.eecs.berkeley.edu//~cs184/fa12/index.html)
+
+  This course is an introduction to the foundations of 3-dimensional computer graphics. Topics covered include 2D and 3D transformations, interactive 3D graphics programming with OpenGL, shading and lighting models, geometric modeling using Bézier and B-Spline curves, computer graphics rendering including ray tracing and global illumination, signal processing for anti-aliasing and texture mapping, and animation and inverse kinematics. There will be an emphasis on both the mathematical and geometric aspects of graphics, as well as the ability to write complete 3D graphics programs.
+
+
+* **Rendering / Ray Tracing Course (TU Wien), Károly Zsolnai-Fehér**  
+[[Course]](https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html) [[YouTube]](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi0
+
+  This course aims to give an overview of basic and state-of-the-art methods of rendering. Offline methods such as ray and path tracing, photon mapping and many other algorithms are introduced and various refinement are explained. The basics of the involved physics, such as geometric optics, surface and media interaction with light and camera models are outlined. The apparatus of Monte Carlo methods is introduced which is heavily used in several algorithms and its refinement in the form of stratified sampling and the Metropolis-Hastings method is explained.
