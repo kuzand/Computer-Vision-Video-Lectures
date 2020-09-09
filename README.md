@@ -369,6 +369,6 @@ The course will also discuss recent applications of machine learning, such as to
 
 
 * **Rendering / Ray Tracing Course (TU Wien), Károly Zsolnai-Fehér**  
-[[Course]](https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html) [[YouTube]](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi0
+[[Course]](https://www.cg.tuwien.ac.at/courses/Rendering/VU.SS2019.html) [[YouTube]](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi0)
 
   This course aims to give an overview of basic and state-of-the-art methods of rendering. Offline methods such as ray and path tracing, photon mapping and many other algorithms are introduced and various refinement are explained. The basics of the involved physics, such as geometric optics, surface and media interaction with light and camera models are outlined. The apparatus of Monte Carlo methods is introduced which is heavily used in several algorithms and its refinement in the form of stratified sampling and the Metropolis-Hastings method is explained.
