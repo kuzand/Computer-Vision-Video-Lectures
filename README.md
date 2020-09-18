@@ -346,6 +346,11 @@ The course will also discuss recent applications of machine learning, such as to
 [[Course]](https://deeplearning.mit.edu/) [[YouTube]](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 
+* **Introduction to Deep Learning 11-785 (Carnegie Mellon University)**  
+[[Course]](http://deeplearning.cs.cmu.edu/S20/index.html) [[YouTube]](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)
+
+  In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks. By the end of the course, it is expected that students will have significant familiarity with the subject, and be able to apply Deep Learning to a variety of tasks. They will also be positioned to understand much of the current literature on the topic and extend their knowledge through further study.
+
 
 
 ## Computer Graphics
