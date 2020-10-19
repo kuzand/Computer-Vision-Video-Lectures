@@ -188,6 +188,12 @@ learning techniques applied in this area.
 [[Course]](https://www.ipb.uni-bonn.de/msr2-2020/) [[YouTube]](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
 
 
+* **Robot Mapping (University of Bonn), Cyrill Stachniss**  
+[[Course]](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) [[YouTube]](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
+
+  The lecture will cover different topics and techniques in the context of environment modeling with mobile robots. We will cover techniques such as SLAM with the family of Kalman filters, information filters, particle filters. We will furthermore investigate graph-based approaches, least-squares error minimization, techniques for place recognition and appearance-based mapping, and data association.
+
+
 * **Biometrics (IIT Kanpur), Prof. Phalguni Gupta**  
 [[Course]](https://nptel.ac.in/courses/106/104/106104119/) [[YouTube]](https://www.youtube.com/playlist?list=PLbMVogVj5nJSCwX0N6MAXPsKGWFRI5Y5m])
 
