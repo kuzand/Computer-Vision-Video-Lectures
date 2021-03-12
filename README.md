@@ -158,6 +158,11 @@ learning techniques applied in this area.
   This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision.
 
 
+* **First Principles of Computer Vision, Shree Nayar** 
+[[YouTube]](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists) 
+
+ First Principles of Computer Vision is a lecture series presented by Shree Nayar who is faculty in the Computer Science Department, School of Engineering and Applied Sciences, Columbia University. Computer Vision is the enterprise of building machines that “see.” This series focuses on the physical and mathematical underpinnings of vision and has been designed for students, practitioners, and enthusiasts who have no prior knowledge of computer vision. 
+
 
 
 ## Advanced Computer Vision 
