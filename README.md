@@ -85,6 +85,13 @@ A curated list of free, high-quality, university-level courses with video lectur
 
 ## Introductory Computer Vision
 
+
+* **First Principles of Computer Vision, Shree Nayar**  
+[[Website]](https://fpcv.cs.columbia.edu/) [[YouTube]](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists) 
+
+  First Principles of Computer Vision is a lecture series presented by Shree Nayar who is faculty in the Computer Science Department, School of Engineering and Applied Sciences, Columbia University. Computer Vision is the enterprise of building machines that “see.” This series focuses on the physical and mathematical underpinnings of vision and has been designed for students, practitioners, and enthusiasts who have no prior knowledge of computer vision. 
+
+
 * **Computer Vision CAP5415 (UCF), Dr. Mubarak Shah**  
 [[Course 2012]](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)
 [[Course 2014]](https://www.crcv.ucf.edu/courses/cap5415-fall-2014/)
@@ -158,10 +165,7 @@ learning techniques applied in this area.
   This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision.
 
 
-* **First Principles of Computer Vision, Shree Nayar**  
-[[YouTube]](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists) 
 
-  First Principles of Computer Vision is a lecture series presented by Shree Nayar who is faculty in the Computer Science Department, School of Engineering and Applied Sciences, Columbia University. Computer Vision is the enterprise of building machines that “see.” This series focuses on the physical and mathematical underpinnings of vision and has been designed for students, practitioners, and enthusiasts who have no prior knowledge of computer vision. 
 
 
 
