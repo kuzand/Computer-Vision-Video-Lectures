@@ -370,6 +370,11 @@ The course will also discuss recent applications of machine learning, such as to
 
 ## Computer Graphics
 
+* **Computer Graphics CMU 15-462/662 (Carnegie Mellon University)**  
+[[Websiet]](http://15462.courses.cs.cmu.edu/spring2021/home) [[YouTube]](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+
+  Lecture videos for the introductory Computer Graphics class at Carnegie Mellon University.
+
 * **Computer Graphics (Utrecht University), Wolfgang Huerst**  
 [[YouTube]](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
 
