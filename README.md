@@ -125,6 +125,11 @@ A curated list of free, high-quality, university-level courses with video lectur
   The lecture introduces the basic concepts of image formation - perspective projection and camera motion. The goal is to reconstruct the three-dimensional world and the camera motion from multiple images. To this end, one determines correspondences between points in various images and respective constraints that allow to compute motion and 3D structure. A particular emphasis of the lecture is on mathematical descriptions of rigid body motion and of perspective projection. For estimating camera motion and 3D geometry we will make use of both spectral methods and methods of nonlinear optimization.
 
 
+* **3D Computer Vision CS4277/CS5477 (National University of Singapore), Gim Hee Lee**  
+[[YouTube]](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+
+  This is an introductory course on 3D Computer Vision which was recorded for online learning at NUS due to COVID-19. The topics covered include: Lecture 1: 2D and 1D projective geometry. Lecture 2: Rigid body motion and 3D projective geometry. Lecture 3: Circular points and Absolute conic. Lecture 4: Robust homography estimation. Lecture 5: Camera models and calibration. Lecture 6: Single view metrology. Lecture 7: The fundamental and essential matrices. Lecture 8: Absolute pose estimation from points or lines. Lecture 9: Three-view geometry from points and/or lines. Lecture 10: Structure-from-Motion (SfM) and bundle adjustment. Lecture 11: Two-view and multi-view stereo. Lecture 12: Generalized cameras. Lecture 13: Auto-Calibration.
+
 * **Multiple View Geometry in Computer Vision (IT Sligo), Sean Mullery**  
 [[YouTube]](https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj)
 
