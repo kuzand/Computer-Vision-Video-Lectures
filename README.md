@@ -111,20 +111,6 @@ A curated list of free, high-quality, university-level courses with video lectur
   This course provides an overview of this field, starting with image formation and low level image processing.  We then go into detail on the theory and techniques for extracting features from images, measuring shape and location, and recognizing objects.
   
 
-* **Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers**  
-[[Course]](https://vision.in.tum.de/teaching/online/cvvm) [[YouTube]](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
-
-  Variational Methods are among the most classical techniques for optimization of cost functions in higher dimension. Many challenges in Computer Vision and in other domains of research can be formulated as variational methods. Examples include denoising, deblurring, image segmentation, tracking, optical flow estimation, depth estimation from stereo images or 3D reconstruction from multiple views.
-
-  In this class, I will introduce the basic concepts of variational methods, the Euler-Lagrange calculus and partial differential equations. I will discuss how respective computer vision and image analysis challenges can be cast as variational problems and how they can be efficiently solved. Towards the end of the class, I will discuss convex formulations and convex relaxations which allow to compute optimal or near-optimal solutions in the variational setting.
-
-
-* **Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers**  
-[[Course]](https://vision.in.tum.de/teaching/online/mvg) [[YouTube]](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
-
-  The lecture introduces the basic concepts of image formation - perspective projection and camera motion. The goal is to reconstruct the three-dimensional world and the camera motion from multiple images. To this end, one determines correspondences between points in various images and respective constraints that allow to compute motion and 3D structure. A particular emphasis of the lecture is on mathematical descriptions of rigid body motion and of perspective projection. For estimating camera motion and 3D geometry we will make use of both spectral methods and methods of nonlinear optimization.
-
-
 * **3D Computer Vision CS4277/CS5477 (National University of Singapore), Gim Hee Lee**  
 [[YouTube]](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 
@@ -180,6 +166,20 @@ learning techniques applied in this area.
 [[Course 2019]](https://www.crcv.ucf.edu/courses/cap6412-spring-2019/) [[YouTube]](https://www.youtube.com/playlist?list=PLd3hlSJsX_IkapQJx77o7ESDEY_dwBrar)
 
   This is an Advanced Computer Vision which will expose graduate students to the cutting-edge research. In each class we will discuss one recent research paper related to active areas of current research, in particular employing Deep Learning. Computer vision has been very active area of research for many decades and researchers have been working on solving important challenging problems. During the last few years, Deep Learning involving Artificial Neural Networks has been disruptive force in computer vision. Employing deep learning, tremendous progress has been made in a very short time in solving difficult problems and very impressive results have obtained in image and video classification, localization, semantic segmentation, etc. New techniques, datasets, hardware and software libraries are emerging almost every day. Deep Computer vision is impacting research in Robotics, Natural Language understanding, Computer Graphics, multi-modal analysis etc.
+
+
+* **Computer Vision I: Variational Methods (TU München), Prof. Daniel Cremers**  
+[[Course]](https://vision.in.tum.de/teaching/online/cvvm) [[YouTube]](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
+
+  Variational Methods are among the most classical techniques for optimization of cost functions in higher dimension. Many challenges in Computer Vision and in other domains of research can be formulated as variational methods. Examples include denoising, deblurring, image segmentation, tracking, optical flow estimation, depth estimation from stereo images or 3D reconstruction from multiple views.
+
+  In this class, I will introduce the basic concepts of variational methods, the Euler-Lagrange calculus and partial differential equations. I will discuss how respective computer vision and image analysis challenges can be cast as variational problems and how they can be efficiently solved. Towards the end of the class, I will discuss convex formulations and convex relaxations which allow to compute optimal or near-optimal solutions in the variational setting.
+
+
+* **Computer Vision II: Multiple View Geometry (TU München), Prof. Daniel Cremers**  
+[[Course]](https://vision.in.tum.de/teaching/online/mvg) [[YouTube]](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4)
+
+  The lecture introduces the basic concepts of image formation - perspective projection and camera motion. The goal is to reconstruct the three-dimensional world and the camera motion from multiple images. To this end, one determines correspondences between points in various images and respective constraints that allow to compute motion and 3D structure. A particular emphasis of the lecture is on mathematical descriptions of rigid body motion and of perspective projection. For estimating camera motion and 3D geometry we will make use of both spectral methods and methods of nonlinear optimization.
 
 
 * **Advanced Computer Vision (CBCSL), Aleix M. Martinez**  
