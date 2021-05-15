@@ -2,6 +2,16 @@
 
 A curated list of free, high-quality, university-level courses with video lectures related to the field of Computer Vision.
 
+## Table of Contents
+- [Signal Processing](#signal-processing)
+- [Image and Video Processing](#image-and-video-processing)
+- [Introductory Computer Vision](#introductory-computer-vision)
+- [Advanced Computer Vision](#advanced-computer-vision)
+- [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
+- [Human Vision and Perception](#human-vision-and-perception)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [Computer Graphics](#computer-graphics)
 
 ## Signal Processing
 
@@ -154,9 +164,6 @@ learning techniques applied in this area.
 [[Course]](https://pjreddie.com/courses/computer-vision/) [[YouTube]](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) 
 
   This class is a general introduction to computer vision. It covers standard techniques in image processing like filtering, edge detection, stereo, flow, etc. (old-school vision), as well as newer, machine-learning based computer vision.
-
-
-
 
 
 
